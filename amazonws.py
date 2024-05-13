@@ -32,7 +32,7 @@ while a<=160:
         List.append([ad,rate,deger])
         df=pd.DataFrame(List)
         df.columns=["Ürün detay","Ürün değerlerndirmesi","değerlendiren kişi sayısı"]
-        df.to
+        
         
         print("\n")
         i+=1
